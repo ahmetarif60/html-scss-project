@@ -12,4 +12,6 @@ Bu proje HTML,CSS ve SCSS kullanılarak yapılan bir web sitedir.Site Anasayfa,H
 
 <h2>Proje Gifi</h2>
 
-<img src= "/images/Document-Profil-1-Microsoft_-Edge-2023-10-08-01-14-24.gif)"/>
+<img src="/images/Document-Profil-1-Microsoft_-Edge-2023-10-08-01-14-24.gif"/>
+
+
